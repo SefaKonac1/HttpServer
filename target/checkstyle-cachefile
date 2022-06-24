@@ -1,0 +1,5 @@
+#Mon Jun 06 17:12:10 TRT 2022
+module-resource*?\:checkstyle/suppressions.xml=AD9552209E34529DC21E73E0CC0E3C063AD5E0F
+C\:\\Users\\sefak\\OneDrive\\Desktop\\HttpServer\\httpserver\\src\\test\\java\\com\\individual\\AppTest.java=1653422173303
+C\:\\Users\\sefak\\OneDrive\\Desktop\\HttpServer\\httpserver\\src\\main\\java\\com\\individual\\App.java=1653422173298
+configuration*?=9BBCB15EEA9EF8A60975D132FEEC59650FBB155D
